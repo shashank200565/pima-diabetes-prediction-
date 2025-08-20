@@ -1,4 +1,5 @@
-#🩺 Diabetes Classification using Deep Learning
+# Diabetes Classification using Deep Learning
+
 📌 Project Overview
 
 This project focuses on building a deep learning model to classify whether a person has diabetes using the Pima Indians Diabetes Dataset. The dataset contains medical diagnostic measurements such as:
